@@ -1,0 +1,2 @@
+Data used for this project consists of EV Charger Data from US Department of Transportation, and it highlights both private and public chargers as well as the nuances within them.
+We used California's population data as per zip codes taken from United States Census Bureau, California Vehicle Fuel type data according to zip code taken from the US General Services Administration's Technology Transformation Services, and location coordinates for California according to the zip code taken from US Postal Service for this project.
